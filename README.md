@@ -1,2 +1,2 @@
-# hotel-management-system-
-A python project for a hotel management ,which is each to view where there is availability 
+# JupyterChart
+This directory contains the JavaScript portion of the Altair `JupyterChart`. The `JupyterChart` is based on the [AnyWidget](https://anywidget.dev/) project.
